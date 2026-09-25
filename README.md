@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://engob.github.io/proofshot/"><img alt="Essayer" src="https://img.shields.io/badge/Essayer-D%C3%A9couvrir_l%27extension-0b0b0f?style=for-the-badge&labelColor=0b0b0f"></a>
-  <img alt="Statut" src="https://img.shields.io/badge/Statut-En_ligne-059669?style=for-the-badge&labelColor=0b0b0f">
-  <a href="https://engob.github.io/portofolio/projets/proofshot/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-S%C3%A9bastien_Khai-4f46e5?style=for-the-badge&labelColor=0b0b0f"></a>
+  <a href="https://engob.github.io/portofolio/projets/proofshot/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Senshi_Kabai-4f46e5?style=for-the-badge&labelColor=0b0b0f"></a>
 </p>
 
 <h1 align="center">ProofShot</h1>
 <p align="center"><b>Capturer, annoter, partager — en 30 secondes.</b><br>Une extension Chrome pour documenter un bug ou fabriquer un tutoriel sans quitter son navigateur. Et sans que vos captures ne quittent votre ordinateur.</p>
+<p align="center"><sub>Statut : <b>En ligne</b></sub></p>
 
 ---
 
@@ -41,4 +41,4 @@ Documenting a bug or writing a tutorial means juggling capture, editing and layo
 
 ---
 
-<p align="center"><sub>Conçu, développé et mis en ligne par <b>Sébastien Khai</b>, Product Builder · <a href="https://engob.github.io/portofolio/">portfolio</a> · <a href="https://engob.github.io/portofolio/projets/proofshot/">fiche du projet</a><br>© 2026 Sébastien Khai — tous droits réservés.</sub></p>
+<p align="center"><sub>Conçu, développé et mis en ligne par <b>Senshi Kabai</b>, Product Builder · <a href="https://engob.github.io/portofolio/">portfolio</a> · <a href="https://engob.github.io/portofolio/projets/proofshot/">fiche du projet</a><br>© 2026 Senshi Kabai — tous droits réservés.</sub></p>
