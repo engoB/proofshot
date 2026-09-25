@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://engob.github.io/proofshot/"><img alt="Essayer" src="https://img.shields.io/badge/Essayer-D%C3%A9couvrir_l%27extension-0b0b0f?style=for-the-badge&labelColor=0b0b0f"></a>
-  <a href="https://engob.github.io/portofolio/projets/proofshot/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Senshi_Kabai-4f46e5?style=for-the-badge&labelColor=0b0b0f"></a>
+  <a href="https://www.senshicore.com/projets/proofshot/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Senshi_Kabai-4f46e5?style=for-the-badge&labelColor=0b0b0f"></a>
 </p>
 
 <h1 align="center">ProofShot</h1>
@@ -41,4 +41,4 @@ Documenting a bug or writing a tutorial means juggling capture, editing and layo
 
 ---
 
-<p align="center"><sub>Conçu, développé et mis en ligne par <b>Senshi Kabai</b>, Product Builder · <a href="https://engob.github.io/portofolio/">portfolio</a> · <a href="https://engob.github.io/portofolio/projets/proofshot/">fiche du projet</a><br>© 2026 Senshi Kabai — tous droits réservés.</sub></p>
+<p align="center"><sub>Conçu, développé et mis en ligne par <b>Senshi Kabai</b>, Product Builder · <a href="https://www.senshicore.com/">portfolio</a> · <a href="https://www.senshicore.com/projets/proofshot/">fiche du projet</a><br>© 2026 Senshi Kabai — tous droits réservés.</sub></p>
